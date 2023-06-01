@@ -1,12 +1,26 @@
 # Network Segmentation
 
+definition by Ben:
+
+* Network Segmentation refers to the logical (read: digital) blocking off of sections of a network from each other to further divide it. The reasons for this can include for organization, independence/autonomy, security, privacy, etc. In information security, network segmentation offers another layer of protection from attackers. 
+
+From David L. [""What Is Network Segmentation and Why It Matters?"](https://www.comptia.org/blog/security-awareness-training-network-segmentation) Updated Oct 23, 2020 (accessed June 1, 2023)
 
 
-Network Segmentation refers to 
+
+In your own words, describe network segmentation.
+
+Network segmentation isn’t important as long as the network is using a well configured firewall. Do you agree? 
+
+Why or why not?
+
+What is a screened subnet?
+
+Cameras, ID card scanners, locked doors and biometrics are just a few examples of what type of security?
 
 ## What is CIDR notation?
 
-From Michael N. ["CIDR Block Notation Explained in 2 Minutes](https://medium.com/@ethicalentrepreneur/cidr-block-notation-explained-in-2-minutes-1010ec0dbc15) Updated Aug 15, 2018 (accessed June 1, 2023)
+From Michael N. ["CIDR Block Notation Explained in 2 Minutes"](https://medium.com/@ethicalentrepreneur/cidr-block-notation-explained-in-2-minutes-1010ec0dbc15) Updated Aug 15, 2018 (accessed June 1, 2023)
 
 Classless Inter-Domain Routing (CIDR) is a method for allocating IP addresses and organizing IP routing. According to Wikipedia, it was created to slow the growth of routing tables and the rapid exhaustion of IPv4 addresses.
 
@@ -42,8 +56,3 @@ Why or why not?
 What is a screened subnet?
 
 Cameras, ID card scanners, locked doors and biometrics are just a few examples of what type of security?
-
-Videos
-Classful Subnetting
-
-VLANs and Trunking
