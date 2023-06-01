@@ -1,4 +1,4 @@
-# Network Segmentation
+# Network Segmentation and CIDR Notation
 
 definition by Ben:
 
@@ -16,17 +16,18 @@ Network segmentation isn’t important as long as the network is using a well co
   * Network segmentation can also minimize mishaps, errors, and/or insider threats by limiting the impact to operations throughout an organization. Since this occurs inside an org, the robustness of the firewall would not really assist much without hindering day-to-day processes, but segmentation could.
 
 
-What is a screened subnet?
+What is a screened subnet? [From Wikipedia](https://en.wikipedia.org/wiki/Screened_subnet#:~:text=A%20true%20DMZ%20is%20a,located%20behind%20a%20screening%20router.)
 
-Cameras, ID card scanners, locked doors and biometrics are just a few examples of what type of security? Physical Security
+* A protected area of a network usually maintained separately from the external network (The Internet) via a router, and even another (internal) router - creating a perimeter network, or demilitarized zone (DMZ). 
+
+* All DMZs are screened subnets, not all screened subnets are considered DMZs.
+
 
 ## What is CIDR notation?
 
 From Michael N. ["CIDR Block Notation Explained in 2 Minutes"](https://medium.com/@ethicalentrepreneur/cidr-block-notation-explained-in-2-minutes-1010ec0dbc15) Updated Aug 15, 2018 (accessed June 1, 2023)
 
 Classless Inter-Domain Routing (CIDR) is a method for allocating IP addresses and organizing IP routing. According to Wikipedia, it was created to slow the growth of routing tables and the rapid exhaustion of IPv4 addresses.
-
-
 
 * What is a CIDR block?
 
@@ -42,19 +43,8 @@ Setting binary aside and using the decimal system, what is the range of numbers 
 
   * How many octets are found in an IPv4 address? 
 
-    * If you have seen a subnet mask express 255.255.255.0, then you'll get that 3 of the 4 octects are full - with only the last available to be changed. There are 4 octects in an IPv4 address.
+    * If you have seen a subnet mask express 255.255.255.0, then you'll get that 3 of the 4 octects are full - with only the last available to be changed. There are 4 octects in an IPv4 address. 
 
   * An IPv6 address?
 
-
-What Is Network Segmentation and Why It Matters?
-
-In your own words, describe network segmentation.
-
-Network segmentation isn’t important as long as the network is using a well configured firewall. Do you agree? 
-
-Why or why not?
-
-What is a screened subnet?
-
-Cameras, ID card scanners, locked doors and biometrics are just a few examples of what type of security?
+    * 16
