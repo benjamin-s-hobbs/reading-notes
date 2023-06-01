@@ -7,16 +7,18 @@ definition by Ben:
 From David L. [""What Is Network Segmentation and Why It Matters?"](https://www.comptia.org/blog/security-awareness-training-network-segmentation) Updated Oct 23, 2020 (accessed June 1, 2023)
 
 
-
-In your own words, describe network segmentation.
-
 Network segmentation isn’t important as long as the network is using a well configured firewall. Do you agree? 
 
-Why or why not?
+* I don't agree with this statement for a couple of reasons:
+
+  * Defense-In-Depth: Even with a well-configured firewall, any action to enchance and support the defense should be welcomed especially if they work in tandem. To use sports analogies, it is very rare that offensive lines are solely relied on to stop running backs, that goalkeepers are solely relied on to stop forwards, that pitchers are solely relied on to stop runs from being scored, that centers are solely relied on to defend the basket, etc.
+
+  * Network segmentation can also minimize mishaps, errors, and/or insider threats by limiting the impact to operations throughout an organization. Since this occurs inside an org, the robustness of the firewall would not really assist much without hindering day-to-day processes, but segmentation could.
+
 
 What is a screened subnet?
 
-Cameras, ID card scanners, locked doors and biometrics are just a few examples of what type of security?
+Cameras, ID card scanners, locked doors and biometrics are just a few examples of what type of security? Physical Security
 
 ## What is CIDR notation?
 
