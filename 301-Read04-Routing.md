@@ -16,12 +16,14 @@ From [VirtualBox Network Settings: Complete Guide](https://www.nakivo.com/blog/v
 
 * What are the three options of promiscuous mode and what does each do?
 
-  * Deny - (Default) Any traffic not intended to the virtual network adapter is 
+  * Deny - (Default) Any traffic not intended to the virtual network adapter is hidden from the VM.
 
-  * Allow VMs -
+  * Allow VMs - All traffic is hidden from the network adapter except the traffic transmitted to and from other VMs.
 
-  * Allow All -
+  * Allow All - There are no restrictions in this mode. A VM network adapter can see all incoming and out going traffic.
 
 * What is Port Forwarding?
+
+  * Port forwarding is a process of intercepting traffic addressed to the appropriate IP address and port in addition to redirecting that traffic to a different IP address and/or port.
 
 ## Things I want to know more about 
