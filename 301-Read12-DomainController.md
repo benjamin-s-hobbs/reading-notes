@@ -13,11 +13,13 @@ From Chris H. "What is a Windows Domain and How Does It Affect My PC?" https://w
     * To control a group of similar computers. Domains can be used to make sure that certain programs are present on all computers in the domain or that certain programs can not be installed on computers in the domain. Use of a domain allows a single computer to control many computers, instituting group policies, updates, refreshes and more.
 
 2. What is the benefit of being able to login with the same username and password on any computer joined to the domain? What are the security risks?
-   * The benefit is, in fact, also the security risk (In different terms). The benefit is that coworkers could login via any workstation and access at least a fraction of their tools available to them (depending on the setup). The security risk is an increased attack surface. A greater area which may be exploited by an attacker.
+   * The benefit is, in fact, also the security risk (In different terms). The benefit is that coworkers could login via any workstation and access at least a fraction of their tools available to them (depending on the setup). The security risk is an increased attack surface. A greater area which may be exploited by an attacker. Also, if an attacker gains access to the domain via a user account, they may then attempt privilege escalation to become the domain controller. Then 
 
 3. Describe how group policies are used in domains?
-   * 
-In what other ways can you think of that domains could be used beyond what was presented in the reading?
+   * Group Policies are used to schedule (and push out) updates, patches, refreshes, changes to the allowlists or denylists. Group Policies can also make it easier to rollback changes when there are issues. 
+
+4. In what other ways can you think of that domains could be used beyond what was presented in the reading?
+   * You can capture user info as a mandatory condition of logging on? ()
 
 
 
