@@ -70,11 +70,12 @@ AD stores info in a hierarchical structure consisting of domains, trees, and, fo
     * Active Directory Rights Management Services (AD RMS)
 
 2. What are the differences between a domain, forest, and tree in Active Directory?
-* A domain...
-* A forest...
-* A tree...
+* A domain is a collection of objects (users/groups/devices/etc)
+* A tree consists of more than one domain (with a common root name)
+* A forest consists of similiar trees (sharing a common schema, global catalog, and directory configuration)
 3. How can objects (e.g. users, devices) within a domain be grouped?
-* 
+* geographically, functionally, or businesswise. 
+* They ma 
 4. Explain the benefits of Active Directory, as you would to a family member.
 * 
 ## What do I want to know more about?
