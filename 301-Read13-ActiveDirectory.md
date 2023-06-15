@@ -73,9 +73,19 @@ AD stores info in a hierarchical structure consisting of domains, trees, and, fo
 * A domain is a collection of objects (users/groups/devices/etc)
 * A tree consists of more than one domain (with a common root name)
 * A forest consists of similiar trees (sharing a common schema, global catalog, and directory configuration)
+
 3. How can objects (e.g. users, devices) within a domain be grouped?
 * geographically, functionally, or businesswise. 
-* They ma 
+* They may also be place in Organizational Units (OU)
+
 4. Explain the benefits of Active Directory, as you would to a family member.
-* 
+* Using AD allows the organization of the data in a business, much like the books in a library.
+    * Domains are like a collection - like all of the things in a library. (e.g. mylibrary.com)
+        * There is someone in control of a library, like the Head Librarian who makes decisions that affect the whole library and people's experience of the library. 
+        * The Head Librarian can add people and subtract people. They can allow people more permissions. They make sure that everything in the library runs well.
+    * Trees are like different ways to ways to organize things in the library (e.g. authors, patrons, books, sections, levels, branches, staff, VIPs, donors, etc.)
+        * This can look like: books.mylibrary.com, staff.mylibrary.com, patrons.mylibrary.com, donors.mylibrary.com, etc.
+    * Forests could be if all of the libraries in the state (or county) shared their schema and global catalog so that someone could look for books.mylibrary.com, books.yourlibrary.com, books.thatlibrary.com, books.thislibrary.com, books.alibrary.com
+
+
 ## What do I want to know more about?
