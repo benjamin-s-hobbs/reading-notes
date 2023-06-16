@@ -51,15 +51,6 @@ AD stores info in a hierarchical structure consisting of domains, trees, and, fo
 * Resiliency
 
 
-
-
-
- 
-
-
-
-
-
 ## Questions for Understanding
 1. What exactly is “Active Directory” and what are the key services it provides?
 * Active Directory, or AD, is actually a number of different directory services, including:
