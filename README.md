@@ -3,7 +3,7 @@ This is where I keep track of my observations and questions from readings.  Just
 
 
 ### Wiki
-If you would prefer to search a topic alphabetically, please try the Wiki option available [here]()
+If you would prefer to search a topic alphabetically, please try the Wiki option available [here.](https://github.com/benjamin-s-hobbs/reading-notes/wiki)
 
 ## Table of Contents
 Code Fellows Academy
