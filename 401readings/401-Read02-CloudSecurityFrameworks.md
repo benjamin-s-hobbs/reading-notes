@@ -1,9 +1,18 @@
 # Cloud Security Principles and Frameworks
 
-From: [AWS Architecture Blog - Compute Abstractions on AWS: A Visual Story]()
+From: [AWS Architecture Blog - Compute Abstractions on AWS: A Visual Story](https://aws.amazon.com/blogs/architecture/compute-abstractions-on-aws-a-visual-story/) (accessed by Benjamin Hobbs on 7/9/2023)
+
+## Cloud Security Principles
+
+* Cloud computing generally follows different levels of needs for consumers.
+* Even though vendors may address these levels differently with their products, they still follow this fairly closely.
 
 
+### Separation of Duties
+* In a cloud environment, there's the inherent question...Who's responsible for what? 
+   * The AWS model apporaches this with a shared responsibility model.
 
+     * Basically, the assertion here is: There is some stuff that AWS is responsible for, and there is some stuff that the consumer is responsible for.
 
 
 

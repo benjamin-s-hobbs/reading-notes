@@ -2,12 +2,11 @@
 
 From: [The Ultimate Guide to SOC 2 Compliance](https://www.vendr.com/blog/soc-2-compliance-guide) (accessed by Ben Hobbs on 7/7/2023)
 
+GRC is an exciting area of fast-growing relevance for cybersecurity in today's world. Laws and regulations have not yet caught up to the pace that events are unfolding in today's society. Governance, Risk, and Compliance (GRC) really strives to provide best practices to keep pace with existing trends in today's world. 
 
-***Begin with a statement addressing why this topic matters as it relates to what you are studying in this module.
-Answer each and every question or prompt presented in the assignment above.
-If there are no questions provided, summarize and explain this topic via an analogy from your previous work or home experience.***
+In a world were data has become as valuable as it is, the expectation to safeguard that data is high (especially since currently- some laws do not assert that the people the data is in regard to actually own the data.) Proof of safeguarding customer data is vital to the process of defending against threats. IF laws changed to require companies to report incidents at a certain threshold, then more data would be supplied as to how often these attacks occur, what rate they are successful at, how effective procedures are at mitigating the effects, and much more. GRC and the auditing processes they bring affects all of this. 
 
-
+It is long past time that companies that this seriously, and yet not all entities do. Not all governments do. 
 
 ## What is SOC 2 compliance?
 
@@ -141,7 +140,9 @@ The SOC 2 reporting standard is defined by the AICPA. All SOC 2 audits are signe
   * From that foundation, your procedures would communicate how you intend to have your agents make that happen. Perhaps your office manager comes up with a checklist of things to address so clients have a complete experience. Having templates prepared for use a creating a process for your clients would also be procedures that you could train to in order to enforce the policy.
   * In the end, after your client's process is complete, you may have a completed checklist to show that you addressed all procedures in turn. You may have your client sign something to prove that you advised them of a concept. All of this documentation can be shown to support that you completed the procedures and adhered to your policy to "focus on educating clients and doing all we can to advocate on their behalf."
 
-## What more do I want to know? 
+## What more do I want to know?
+
+* How might GRC shift with the advent of Web3 and the return of data ownership back to individuals?
 
 ## Additional Materials
 
