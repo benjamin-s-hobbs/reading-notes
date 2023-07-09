@@ -21,7 +21,24 @@ The key ideas behind deliberate practice are that deliberate practice should:
 
 * **Be designed to improve performance** - deliberate practice should push one *outside* of their comfort zone, stretching an individual just beyond their current abilities.
 * **Be repeated often** - high repetition is the most important difference between deliberate practice and performing the task for real. 
-* **
+* **Have continuously available feedback on results** - 
+
+* **Be highly mentally demanding** - 
+
+* **Be difficult** - 
+
+* **Require good goals** - 
+
+### [The Matasano Crypto Challenges](http://cryptopals.com/) 
+- a set of exercises that meet these criteria for the majority of intermediate to senior level developers. They relentlessly pummel you with problems that require hard, focused thinking and fiddly solutions. The feedback is continual: your solutions either break crypto and produce the desired results or they don't.
+
+### [Rosalind](http://rosalind.info/about/) 
+
+- another example of a set specifically crafted challenges designed to help you learn a technical specialty (bioinformatics) by applying your existing skills to real world problems.
+
+
+
+
 
 
 
