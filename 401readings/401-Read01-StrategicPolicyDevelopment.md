@@ -2,6 +2,13 @@
 
 From: [The Ultimate Guide to SOC 2 Compliance](https://www.vendr.com/blog/soc-2-compliance-guide) (accessed by Ben Hobbs on 7/7/2023)
 
+
+***Begin with a statement addressing why this topic matters as it relates to what you are studying in this module.
+Answer each and every question or prompt presented in the assignment above.
+If there are no questions provided, summarize and explain this topic via an analogy from your previous work or home experience.***
+
+
+
 ## What is SOC 2 compliance?
 
 * SOC 2 is a framework applying to businesses storing computer data in the cloud.
