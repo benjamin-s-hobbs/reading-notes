@@ -88,7 +88,7 @@ The SOC 2 reporting standard is defined by the AICPA. All SOC 2 audits are signe
 
 ## SOC 2 Documentation Framework (Pyramid & the "3Ps")
 
-
+![SOC2-framework-pyramid]()
 
 
 
