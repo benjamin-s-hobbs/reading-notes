@@ -12,6 +12,11 @@ If there are no questions provided, summarize and explain this topic via an anal
 ## What is SOC 2 compliance?
 
 * SOC 2 is a framework applying to businesses storing computer data in the cloud.
+  * Why SOC 2 Compliance is relevant?
+     * If a company stores customer data, they should be concerned with the protection of that data. A SOC 2 Report demonstrates that a company is doing what can reasonably be expected to safeguard data.
+     * The process of preparation for SOC 2 can bolster company culture.
+     * SOC 2 compliance provides documentation.
+     * SOC 2 preparation assists with risk management.
 * SOC 2 Certification (on its own) is generally not enough to prove 100% security as an organization, but it is a good start.
 * SOC stands for Service Organizations Control Report No. 2
 
@@ -81,10 +86,58 @@ The SOC 2 reporting standard is defined by the AICPA. All SOC 2 audits are signe
       * Interviews
       * Review submitted materials
 
+## SOC 2 Documentation Framework (Pyramid & the "3Ps")
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. FOUNDATION - Security **Policies** ***"WHAT*** you do"
+
+ * Policies govern the behavior of employees, vendors, contractors, etc. to meet security requirements.
+
+ * General policies included in a SOC 2 audit include:
+
+    * Information Security Policy
+    * Access Control Policy
+    * Password Policy
+    * Change Management Policy
+    * Risk Assessment and Mitigation Policy
+    * Incident Response Policy
+    * Logging and Monitoring Policy
+    * Vendor Management Policy
+    * Data Classification Policy
+    * Acceptable Use Policy
+    * Information, Software and System Backup Policy
+    * Business Continuity and Disaster Recovery Plan
+
+2. EXECUTION -  Security **Procedures** ***"HOW*** you do it"
+
+* Procedures demonstrate how your policies work operationally, e.g. what steps you take in response to key events to manage data.
+
+* They describe how the business adheres to policies that they've set.
+
+* Policies should be general enough that procedures can have some latitude to be adjusted without changing the policy. Major changes would necessitate a change in policy.
+
+3. **PROOF** - Supporting Documentation "Proof you ***DID*** it"
+
+* Supporting Documentation demonstrates adherence to policies and procedures.
+
+
+
+
 ## Questions for Understanding
 
 1. How would you convince your future company to pursue SOC2 compliance?
-
+* SaaS?
 
 2. What are the five SOC2 Trust Principles?
 * Security 
@@ -93,7 +146,11 @@ The SOC 2 reporting standard is defined by the AICPA. All SOC 2 audits are signe
 * Integrity
 * Privacy
 
-3. How would your explain the three levels of the SOC 2 pyramid in an analogy your friends or former colleagues would understand?
+3. How would you explain the three levels of the SOC 2 pyramid in an analogy your friends or former colleagues would understand?
+* In real estate, documentation is easy to understand. I would tell my colleagues (and my clients).
+  * The foundation is like having your company policy be to "focus on educating clients and doing all we can to advocate on their behalf." 
+  * From that foundation, your procedures would communicate how you intend to have your agents make that happen. Perhaps your office manager comes up with a checklist of things to address so clients have a complete experience. Having templates prepared for use a creating a process for your clients would also be procedures that you could train to in order to enforce the policy.
+  * In the end, after your client's process is complete, you may have a completed checklist to show that you addressed all procedures in turn. You may have your client sign something to prove that you advised them of a concept. All of this documentation can be shown to support that you completed the procedures and adhered to your policy to "focus on educating clients and doing all we can to advocate on their behalf."
 
 ## What more do I want to know? 
 

@@ -1,6 +1,6 @@
 # Prep Your Mindset
 
-## Sharpen The Saw...on purpose
+## Sharpen The Saw...on purpose (***DELIBERATE* Practice**)
 From [Upgrade Your Technical Skills with Deliberate Practice.](https://web.archive.org/web/20160616225417/http://www.happybearsoftware.com/upgrade-your-technical-skills-with-deliberate-practice) (accessed by Benjamin Hobbs on 7/8/2023)
 
 This brief article makes the assertion that simple repetition of a task does not necessarily increase skill at that task.
@@ -36,19 +36,57 @@ The key ideas behind deliberate practice are that deliberate practice should:
 
 - another example of a set specifically crafted challenges designed to help you learn a technical specialty (bioinformatics) by applying your existing skills to real world problems.
 
+## The Power of "Yet"
+From Carol Dweck ["The power of believing that you can improve-TEDxNorrkoping"](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve?language=en) (accessed by Benjamin Hobbs on 7/9/2023)
+
+Key Ideas:
+* Growth Mindset ("Luxurating in the 'Power of 'Yet''")
+  * Embracing 
+  * Understanding that abilities can be developed
+  * Go to difficulty (engage with it)
+* Fixed Mindset ("Gripped in the 'Tyranny of 'Now''")
+  * Failure is final
+  * Cheat next time...it's over
+  * Find someone that did worse (to make themselves feel better)
+  * Run from difficulty (don't engage with it)
+
+Key Questions:
+* Are we raising kids for 'now' instead of 'yet'?
+
+Key Takeaways:
+* Rewarding 'Yet' 
+* Praise the process
+* Equality Happens with 'Yet'
 
 
+## Grit
+From Angela Lee Duckworth ["Grit: The power of passion and perseverance"-TED Talks Education](https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance/c) (accessed by Benjamin Hobbs on 7/9/2023)
 
+Key Ideas:
+* Understanding students from a motivational perspective
+* Grit is a common denominator of success- not social intelligence, good looks, IQ, or good health.
+* Grit is passion and perserverance for long-term goals. Stamina. Living life as a marathon, not a sprint
+* Science knows little about building Grit
+  * Talent does not make you gritty. 
+* GROWTH MINDSET is connected to Grit
 
+Key Takeaways:
+* We need to be gritty about getting our kids grittier 
 
+## Redefining Success
+From Alain de Botton ["A kinder, gentler philosophy of success"-TEDGlobal 2009](https://www.ted.com/talks/alain_de_botton_a_kinder_gentler_philosophy_of_success) (accessed by Benjamin Hobbs on 7/9/2023)
 
+Key Ideas:
+* Envy and Equality 
+* "Unfortunate" Vs "Loser"
+  * change in the locus of control
 
+Key Takeaways:
 
+## Emotional Intelligence (EQ)
 
+[Assess your emotional intelligence.](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://codefellows.github.io/common_curriculum/career_coaching/201/emotional-intelligence-assessment.pdf)
 
+## Personal Bias Assessment
 
-Watch Carol Dweck on the Growth Mindset. (10 minutes)
-Watch Angela Lee Duckworth on Grit. (6 minutes)
-Watch Alain de Botton on Redefining Success. (17 minutes)
-Assess your emotional intelligence. If you have done it in the past, now you can identify the areas you have grown in recently.
-Assess your biases. If you have done it in the past, now you can identify the areas you have grown in recently.
+[Assess your biases.](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://codefellows.github.io/common_curriculum/career_coaching/301/bias-assessment.pdf)
