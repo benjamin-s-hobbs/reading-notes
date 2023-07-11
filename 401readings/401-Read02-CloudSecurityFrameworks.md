@@ -31,7 +31,7 @@ From: [AWS Architecture Blog - Compute Abstractions on AWS: A Visual Story](http
   * Lambda
 
 
-![AWS Compute Abstractions Visual Narrative]()
+![AWS Compute Abstractions Visual Narrative](https://github.com/benjamin-s-hobbs/reading-notes/blob/main/401readings/AWSAbstraction8-1024x575.png)
 
 
 
