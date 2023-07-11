@@ -17,12 +17,21 @@ From: [AWS Architecture Blog - Compute Abstractions on AWS: A Visual Story](http
 ### Abstraction levels
 
 * Physical Server
+  * Bare Metal 
 
 * Instance (VM)
+  * AWS Lightsail
+  * AWS EC2
+
+* Container
+  * ECS
+  * EKS
+
+* Function
+  * Lambda
 
 
-
-
+![AWS Compute Abstractions Visual Narrative]()
 
 
 
