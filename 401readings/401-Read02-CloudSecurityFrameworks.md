@@ -31,7 +31,7 @@ From: [AWS Architecture Blog - Compute Abstractions on AWS: A Visual Story](http
   * Lambda
 
 
-![AWS Compute Abstractions Visual Narrative](https://github.com/benjamin-s-hobbs/reading-notes/blob/main/401readings/AWSAbstraction8-1024x575.png)
+![AWS Compute Abstractions Visual Narrative](AWSAbstraction8-1024x575.png)
 
 
 
@@ -61,7 +61,7 @@ From: [AWS Architecture Blog - Compute Abstractions on AWS: A Visual Story](http
 ## Additional Materials
 
 Bookmark and Review
-* [13 Compliance Frameworks for Cloud-based Orgs]()
-* [Cloud Security Alliance (CSA)]()
-* [Cloud Controls Matrix (CCM)]()
-* [CSA Security Guidance for Cloud Computing]()
+* [13 Compliance Frameworks for Cloud-based Orgs](https://www.horangi.com/blog/13-compliance-frameworks-for-cloud-based-organizations)
+* [Cloud Security Alliance (CSA)](https://cloudsecurityalliance.org/)
+  * [Cloud Controls Matrix (CCM)](https://cloudsecurityalliance.org/research/cloud-controls-matrix/)
+  * [CSA Security Guidance for Cloud Computing](https://cloudsecurityalliance.org/research/guidance/)
