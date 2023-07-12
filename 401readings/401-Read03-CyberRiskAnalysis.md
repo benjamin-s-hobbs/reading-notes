@@ -24,6 +24,29 @@ Security Fundamentals: Confidentiality, Integrity, and Availability (CIA Triad)
 
 3. Availability: Provide timely and reliable access to resources
 
+### Risk Management Lifecycle
+
+* Identify
+  * Categorize
+* Assess
+  * Analysis
+    * Quantatative
+      1. Asset Value (AV) - How much is the asset worth?
+      2. Exposure Factor (EF) - What percentage of Asset Value is lost?
+      3. Single Loss Expectancy (SLE) - What does it cost if happens once?
+
+              SLE = AV x EF
+      4. Annual Rate of Occurence (ARO) - How often this will happen per year?
+      5. Annualized Loss Expectancy (ALE) - What it cost per year if we do nothing?
+
+              ALE = SLE x ARO
+      6. Total Cost of Ownership (TCO) is the mitigation cost: upfront + ongoing cost
+      
+    * Qualitative
+     
+* Mitigate
+* Monitor, Report, & Document
+
 ## Questions for Understanding
 
 1. Consider a bank ATM that allows users to access bank account balances. What measures can the ATM incorporate to cover the principles of the CIA triad?
