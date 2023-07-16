@@ -1,0 +1,13 @@
+Readings: Public Key Infrastructure (PKI)
+Below you will find reading materials and additional resources that support today’s topic and the upcoming lecture.
+
+Review the Submission Instructions for guidance on completing and submitting this assignment.
+
+Reading
+What is Public Key Infrastructure (PKI)
+
+Name the three main components which make up PKI.
+How would you explain, to a non-technical friend, the role PKI plays in protecting traffic between your browser and a web server.
+What is the main weakness of the PKI architecture?
+Videos
+Prof Messer Security+ PKI Components
