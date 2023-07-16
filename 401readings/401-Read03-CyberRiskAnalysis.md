@@ -30,7 +30,7 @@ Security Fundamentals: Confidentiality, Integrity, and Availability (CIA Triad)
   * Categorize
 * Assess
   * Analysis
-    * Quantatative
+    * Quantatative - Objective analysis
       1. Asset Value (AV) - How much is the asset worth?
       2. Exposure Factor (EF) - What percentage of Asset Value is lost?
       3. Single Loss Expectancy (SLE) - What does it cost if happens once?
@@ -42,7 +42,9 @@ Security Fundamentals: Confidentiality, Integrity, and Availability (CIA Triad)
               ALE = SLE x ARO
       6. Total Cost of Ownership (TCO) is the mitigation cost: upfront + ongoing cost
       
-    * Qualitative
+    * Qualitative - subjective analysis
+      1. Relies on judgment, best practices, intuition, and experience
+      2. Methods- Brainstorming, Delphi Technique
      
 * Mitigate
 * Monitor, Report, & Document
