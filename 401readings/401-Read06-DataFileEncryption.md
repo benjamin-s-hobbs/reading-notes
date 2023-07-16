@@ -49,7 +49,19 @@ From [What Are MD5, SHA-1, and SHA-256 Hashes, and How Do I Check Them?](https:/
 1. You have been made responsible for the company’s file server. How would you preserve the three elements of the CIA triad?
   * Confidentiality- 
     * I would conduct full-disk encryption on the file server and the endpoints that communicate with it either using Veeam or Bacula (data at rest). I would also set up a VPN (just a tunnel) but still transfer via SSH (encrypted in-transit)
+  * Integrity- SHA-256 hashes and digital signatures would be the way to go.
+  * Availability-
+    * I would definitely set up a high-availability (HA) cluster. Depending on our level of resources, I'd look into at least a RAID on one end, and perhaps an Active-Active (HA) on the other.
 
 2. Explain how hashing verifies data integrity using non-technical terms.
 
 3. How are hashing and encryption different?
+* For one- encryption is a two-way process...something that is encrypted should be able to have the correct cipher applied and **decrypt** the information. 
+    * An anology I might use here could be a locker. If I know the combination, I can open the locker, place some apples and oranges inside, and close the locker. When the lock actuates-it doesn't affect the apples and oranges...you just need the combination to get them out. Put the combo in, the locker opens, and you get your info (or fruit) back.
+    * hashing is a one-way process. An analogy I might use is a blender. I put apples and oranges in, turn on the blender, I can turn on the blender correctly again...my pulpy juice will not become unblemished apples and oranges again.
+* Also, they have different aims. Encryption aims to preserve **confidentiality** while hashing aims to preserve **integrity**.
+
+
+## What would I like to know more about?
+## Other Interesting Reads
+* [SSL vs SSH - A Not-So-Technical Comparison](https://www.jscape.com/blog/ssl-vs-ssh-simplified)
