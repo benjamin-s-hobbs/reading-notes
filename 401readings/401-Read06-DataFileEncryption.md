@@ -55,6 +55,9 @@ From [What Are MD5, SHA-1, and SHA-256 Hashes, and How Do I Check Them?](https:/
 
 2. Explain how hashing verifies data integrity using non-technical terms.
 
+  * If you were a very neat and tidy person that kept your busy desk just so, papers aligned to the edge of the mousepad and the pens arranged by height, and so on...if someone were to come in to your office and sit in your chair and then leave, you would know. Something would have changed that you would have noticed. The integrity of your pristine desk and office has been violated by someone not authorized to make changes.
+In a similar way, hashes alert us to something being different in a file by completely altering the hash.
+
 3. How are hashing and encryption different?
 * For one- encryption is a two-way process...something that is encrypted should be able to have the correct cipher applied and **decrypt** the information. 
     * An anology I might use here could be a locker. If I know the combination, I can open the locker, place some apples and oranges inside, and close the locker. When the lock actuates-it doesn't affect the apples and oranges...you just need the combination to get them out. Put the combo in, the locker opens, and you get your info (or fruit) back.
