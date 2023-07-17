@@ -40,11 +40,6 @@ From: [Applying The CIA Triad To Your Enterprise File Transfer](https://www.jsca
 From [What Are MD5, SHA-1, and SHA-256 Hashes, and How Do I Check Them?](https://www.howtogeek.com/67241/htg-explains-what-are-md5-sha-1-hashes-and-how-do-i-check-them/) (accessed by Benjamin Hobbs on 7/15/2023)
 
 
-
-
-
-
-
 ## Questions for Understanding 
 1. You have been made responsible for the company’s file server. How would you preserve the three elements of the CIA triad?
   * Confidentiality- 
