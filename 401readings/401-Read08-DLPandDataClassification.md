@@ -59,5 +59,16 @@ From: [What is Data Loss Prevention (DLP)? Definition, Types, & Tips](https://ww
 
 ## Questions for Understanding
 1. How would you convince your organization about the importance of implementing a DLP solution?
+* DLP is the right thing to do. 
+  * If we as a business believe that we have a value to our customers, then doing all that we can to safeguard any data that we have about them shows we care, and is right. 
+  * Also, if we maintain to our shareholders that we have is valuable and will only continue to become more so in the future, then we have a fiduciary duty to do everything in our power to defend that value on their behalf. This is the way.
+* Observe the trends.
+  * I would rather we built our house of bricks and worry less about the bad wolf, than to build it out of straw to save money and have to worry constantly about dealing with the increasing certainty of of attack.
+  * Also, our prudence and initiative can be leveraged into greater market share if our marketing team steps up to the challenge.
 
 2. How would you explain the three main use cases for DLP to friends or family?
+   * Personal Info Protection/Compliance- First of all, it makes intuitive sense. YOU wouldn't want to bank at a place that you know has had breaches, just like you would stop confiding in a friend of yours if they garnered a rep for having a big mouth. you don't have to be able to prove it...you just won't do it. Those secrets she tells? that data loss.
+
+   * You know that person at work (maybe even a boss) that always takes credit for your ideas? Gets YOUR praise, YOUR compliments, hell maybe even your raise and bonus too you don't know. Those ideas are YOUR Intellectual Property (IP). You could see why companies wouldn't want that getting out and others taking credit (making money) off of their stuff.
+
+   *  If we could hold on to the little data the we didn't really think we needed, it may help more. Like when it might work to go to the store when there are less people there and we on our way somewhere.
