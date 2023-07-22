@@ -1,12 +1,15 @@
 
-Readings: Log Analysis with Splunk
-Below you will find reading materials and additional resources that support today’s topic and the upcoming lecture.
+# Log Analysis with Splunk
+From: [What is a SOC?](https://www.splunk.com/en_us/data-insider/what-is-a-security-operations-center.html) (accessed by Benjamin Hobbs on 7/21/2023)
 
-Review the Submission Instructions for guidance on completing and submitting this assignment.
 
-Reading
-What is a SOC?
 
-What are three tasks which SOCs often perform?
-Explain what a SIEM solution is and how the SOC utilizes it in non-technical terms.
-How does the typical SOC team structure resemble the structure of an IT Help Desk.
+
+
+
+## Questions for understanding
+1. What are three tasks which SOCs often perform?
+
+2. Explain what a SIEM solution is and how the SOC utilizes it in non-technical terms.
+
+3. How does the typical SOC team structure resemble the structure of an IT Help Desk.

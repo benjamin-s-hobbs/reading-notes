@@ -1,14 +1,20 @@
-Readings: Reconstructing a Cloud Attack with Splunk
-Below you will find reading materials and additional resources that support today’s topic and the upcoming lecture.
+# Reconstructing a Cloud Attack with Splunk
+From: [What is a reverse proxy?](https://www.cloudflare.com/learning/cdn/glossary/reverse-proxy/) (accessed by Benjamin Hobbs on 7/21/2023)
 
-Review the Submission Instructions for guidance on completing and submitting this assignment.
 
-Reading
-What is a reverse proxy?
 
-What are the benefits of a forward proxy?
-Explain the differences between a forward and a reverse proxy?
-Explain to your manager why your organization might benefit from implementing a reverse proxy?
-Bookmark and Review
-A Conversation About REST API
-Operationalize Ransomware Detections Quickly and Easily with Splunk
+
+
+
+## Questions for understanding
+
+1. What are the benefits of a forward proxy?
+
+2. Explain the differences between a forward and a reverse proxy?
+
+3. Explain to your manager why your organization might benefit from implementing a reverse proxy?
+
+## Bookmark and Review
+* [A Conversation About REST API](https://gist.github.com/brookr/5977550)
+
+* [Operationalize Ransomware Detections Quickly and Easily with Splunk](https://www.splunk.com/en_us/blog/industries/operationalize-ransomware-detections-quickly-and-easily-with-splunk.html)
