@@ -1,9 +1,19 @@
 # Intrusion Detection and Prevention Systems (IDS/IPS)
 From: [The Pros and Cons of Network Intrusion Detection Systems](https://www.rapid7.com/blog/post/2017/01/11/the-pros-cons-of-intrusion-detection-systems/)
 
+* NIDS are a part of a cohesive network strategy of security.
+  * Have strengths AND weaknesses.
+  * Be sure to layer
 
+## What is an Intrusion Detection System (IDS) 
 
+* IDSs are like fire alarms. They detect when something may be wrong and they alert you. They don't address the problem themselves. The response is on you.
 
+  - There are always trade-offs when employing a IDS (host-based or network-based)
+    * 
+
+## What is an Intrusion Prevention System (IPS)
+* IPS are simliar to IDSs, except they are a bit more proactive. They are capable of stopping some threats. In order to do this, it must have very good instructions or it runs the risk of false positives (or false negatives)
 
 
 
