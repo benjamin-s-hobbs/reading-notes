@@ -11,8 +11,8 @@ From: [Anatomy of A Cloud Breach: How 100 Million Credit Card Numbers Were Expos
 ## Questions for Understanding
 1. What were the three commands used for the attack?
 * curl
-* is
-* syncs3
+* ls
+* sync s3
 
 2. What misconfiguration of AWS components allowed the attacker to access sensitive data?
 * There was a misconfiguration in the WAF (the firewall)
