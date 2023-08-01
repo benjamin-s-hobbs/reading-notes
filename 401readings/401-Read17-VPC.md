@@ -1,9 +1,38 @@
 # Cloud Network Security
 From: [IBM Cloud Learn Hub - What is a Virtual Private Cloud?](https://www.ibm.com/topics/vpc) (accessed by Benjamin Hobbs on 7/31/2023)
 
+* What is a VPC? 
+  * A Virtual Private Cloud (VPC) is a product offered on a public platform (AWS, GCP, Azure) and is logically isolated to create a virtually private environment without having to maintain all of the equipment necessary to create an actual private cloud resource
+
+### Features of VPCs
+
+* Agility - Easy to spin up resources or take down resources easily.
+
+* Availability - High availability and redundant  
+
+* Security - Users have full control to create robust security rules
+
+* Affordability - reducing the overhead involved in creating your cloud. Saving on labor, hardware, etc.
+
+### Cloud Architecture
+
+* Computing:
+  Instances:
+* Storage:
+    * Short-term (s3/block)
+    * Long-term (Glacier/Archives)
+* Networking:
+    * Security Groups/NACLs
+    * Gateways
 
 
+ ## VPC Comparisions
 
+###  VPC vs. VPN (Virtual Private Network)
+
+### VPC vs. Private Cloud
+
+### VPC vs. Public Cloud
 
 ## Questions for further understanding
 
