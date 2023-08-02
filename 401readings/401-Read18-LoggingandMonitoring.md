@@ -2,7 +2,15 @@
 From: [Introduction to AWS CloudWatch](https://www.citrusconsulting.com/introduction-to-aws-cloudwatch/) (accessed by Benjamin Hobbs on 8/1/2023)
 
 
+## CloudWatch Event
 
+## CloudWatch Agent
+
+## Cloudwatch Alarm
+
+## CloudWatch Logs
+
+## CloudWatch Anomaly Detection
 
 
 
