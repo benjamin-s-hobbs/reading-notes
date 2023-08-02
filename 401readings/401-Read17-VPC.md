@@ -17,7 +17,7 @@ From: [IBM Cloud Learn Hub - What is a Virtual Private Cloud?](https://www.ibm.c
 ### Cloud Architecture
 
 * Computing:
-  Instances:
+    * Instances:
 * Storage:
     * Short-term (s3/block)
     * Long-term (Glacier/Archives)
@@ -27,9 +27,9 @@ From: [IBM Cloud Learn Hub - What is a Virtual Private Cloud?](https://www.ibm.c
 
 
  ## VPC Comparisions
-
+  
 ###  VPC vs. VPN (Virtual Private Network)
-
+  * 
 ### VPC vs. Private Cloud
 
 ### VPC vs. Public Cloud
