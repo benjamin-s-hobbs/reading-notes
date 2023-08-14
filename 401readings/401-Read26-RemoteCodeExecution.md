@@ -67,3 +67,4 @@ From: [Tracking, Detecting, and Thwarting PowerShell-based Malware and Attacks](
 * Because of its widespread presence and ability to turn off default settings that now obscure the execution of malware, running a PowerShell script can open the door for successful attacks.
 3. What are two things you can do to mitigate attacks that leverage PowerShell?
 * Enable logging. 
+* Disable obsfucation
