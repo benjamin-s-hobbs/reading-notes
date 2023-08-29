@@ -27,7 +27,7 @@ Someone who uses a XSS attack is generally trying to:
 * Inject trojan functionality into the web site.
 
 1. Explain how a cross-site scripting attack works in non-technical terms.
-   * 
+   * So if you leave your wallet, phone, and work badge out and I find them...then I might be able to (if I was skilled) pretend I was you and go around and do things that could be attributed to you
 
 2. What are the three types of XSS attacks?
    * Reflected, Stored, and DOM-based
