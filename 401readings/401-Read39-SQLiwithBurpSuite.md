@@ -6,5 +6,8 @@ From: [Understanding SQL Injection, Identification and Prevention](https://www.v
 
 ## Questions for further understanding
 1. What is SQL injection?
+  * 
 2. Can you give an example of how a hacker could use SQL injection to gain unauthorized access?
-3. What are some ways to prevent SQL injection attacks on a web server?
+  * send a request directly to the database to return usernames or password resets
+3. What are some ways to prevent SQL injection attacks on a web server? 
+  * Input Validation
